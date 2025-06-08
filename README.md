@@ -1,5 +1,4 @@
-Added full HTTP simulation for Honeypot so it could use complete front-end (not just plain text)
---------
+Note: added full HTTP simulation in ./tools/network/honeypot.rb so it could use a complete front-end (not just plain text)
 
 # PentBox
 
