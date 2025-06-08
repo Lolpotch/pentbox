@@ -1,3 +1,6 @@
+Added full HTTP simulation for Honeypot so it could use complete front-end (not just plain text)
+--------
+
 # PentBox
 
 -----------------
